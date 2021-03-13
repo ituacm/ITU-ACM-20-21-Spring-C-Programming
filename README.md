@@ -14,7 +14,7 @@ Her Cuma [ 18:00 - 19:30 ] (Online)
 
 |  # | **Content**  |  **Instructor**  |
 | :------------: | :------------: | :------------: |
-| Hafta 1 | Kurs Tanıtımı, Input/Output İşlemleri, Veri Türleri, Değişkenler  | Ahmet Furkan Kavraz |
+| Hafta 1 | Kurs Tanıtımı, Input/Output İşlemleri, Veri Türleri, Değişkenler, Operatörler  | Ahmet Furkan Kavraz |
 | Hafta 2 | Karar Yapıları (If-Else, Switch-Case), Döngüler (While-For-DoWhile (break-continue))   | Gökalp Akartepe |
 | Hafta 3 | Fonksiyonlar, Arrayler | Ahmet Furkan Kavraz |
 | Hafta 4 | Pointerlar | Gökalp Akartepe |
