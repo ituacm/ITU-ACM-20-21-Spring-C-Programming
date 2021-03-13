@@ -8,20 +8,19 @@
 Katılımcılara basit C programlama bilgisi kazandırmak ve katılımcıları karmaşık programlama konularına hazırlamak.
 
 ## Lecture Day and Time
-Her Cuma, [ 18:00 - 19:30 ] (Online)
+Her Cuma [ 18:00 - 19:30 ] (Online)
 
 ## Syllabus
 
 |  # | **Content**  |  **Instructor**  |
 | :------------: | :------------: | :------------: |
-| Hafta 1 | Kurs tanıtımı, compiler kurulumu | Ahmet Furkan Kavraz |
-| Hafta 2 | Input/Output İşlemleri, Data Türleri, Değişkenler  | Gökalp Akartepe |
-| Hafta 3 | Karar Yapıları (If-Else, Switch-Case), Döngüler (While-For-DoWhile (break-continue))   | Ahmet Furkan Kavraz |
-| Hafta 4 | Fonksiyonlar, Arrayler | Gökalp Akartepe |
-| Hafta 5 | Pointerlar | Ahmet Furkan Kavraz |
-| Hafta 6 | Stringler | Gökalp Akartepe |
-| Hafta 7 | Hafıza Ayırma, Structlar | Ahmet Furkan Kavraz |
-| Hafta 8 | Dosya İşlemleri | Mehmet Yiğit Balık |
+| Hafta 1 | Kurs Tanıtımı, Input/Output İşlemleri, Veri Türleri, Değişkenler  | Ahmet Furkan Kavraz |
+| Hafta 2 | Karar Yapıları (If-Else, Switch-Case), Döngüler (While-For-DoWhile (break-continue))   | Gökalp Akartepe |
+| Hafta 3 | Fonksiyonlar, Arrayler | Ahmet Furkan Kavraz |
+| Hafta 4 | Pointerlar | Gökalp Akartepe |
+| Hafta 5 | Stringler | Ahmet Furkan Kavraz |
+| Hafta 6 | Hafıza Ayırma, Structlar | Gökalp Akartepe |
+| Hafta 7 | Dosya İşlemleri | Ahmet Furkan Kavraz |
 
 ## Instructors @I.T.U
 | **Name and Surname** | **Social Media** |
