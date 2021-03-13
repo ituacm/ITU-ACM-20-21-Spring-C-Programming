@@ -29,7 +29,7 @@ Her Cuma [ 18:00 - 19:30 ] (Online)
 | Gökalp Akartepe #2 | [*LinkedIn*](https://www.linkedin.com/in/gklpvi/) |
 
 
-## Suggested Readings
+## Önemli
 İlk dersten önce katılımcıların Ubuntu terminali ve bir adet text editör kurmaları önemle tavsiye edilmektedir. İlk hafta sonundaki derste karşılaşılan problemlere yardımcı olunacaktır. (Ubuntu terminali kurulumu için ilk dökümandan yararlanabilirsiniz. Text editör olarak istediğiniz herhangi bir editörü kullanabilirsiniz.)
 
 
