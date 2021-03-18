@@ -30,7 +30,7 @@ Her Cuma [ 18:00 - 19:30 ] (Online)
 
 
 ## Önemli
-İlk dersten önce katılımcıların Ubuntu terminali ve bir adet text editör kurmaları önemle tavsiye edilmektedir. İlk hafta sonundaki derste karşılaşılan problemlere yardımcı olunacaktır. (Ubuntu terminali kurulumu için ilk dökümandan yararlanabilirsiniz. Text editör olarak istediğiniz herhangi bir editörü kullanabilirsiniz.)
+İlk dersten önce katılımcıların Ubuntu terminali ve bir adet text editör kurmaları önemle tavsiye edilmektedir. İlk hafta sonundaki derste karşılaşılan problemlere yardımcı olunacaktır. (Ubuntu terminali kurulumu için ilk dökümandan yararlanabilirsiniz. Text editör olarak istediğiniz herhangi bir editörü (Visual Studio Code veya Atom'dan herhangi biri) kullanabilirsiniz.)
 
 
 
